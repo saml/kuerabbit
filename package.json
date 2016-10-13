@@ -1,0 +1,8 @@
+{
+  "name": "kuerabbit",
+  "description": "Kue on Rabbit",
+  "devDependencies": {
+    "ts-node": "^1.4.3",
+    "typescript": "^2.0.3"
+  }
+}
